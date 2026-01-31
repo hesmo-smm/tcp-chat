@@ -23,11 +23,12 @@ goal: a simple tcp cli chat program to learn some C.
 ## phase 1: basics (must work)
 
 * [x] server starts and listens on port
-* [ ] a client can connect
-* [ ] client can send a message
-* [ ] server receives and displays the message
-* [ ] server can send a response
-* [ ] cleanly close connection
+* [x] a client can connect
+* [x] client can send a message
+* [x] server receives and displays the message
+* [x] server can send a response
+* [x] cleanly close connection
+* [ ] do the cleanup and make it like a real cli message thingy
 
 ---
 
