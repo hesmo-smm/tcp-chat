@@ -1,6 +1,7 @@
 # tcp-chat
 
 goal: a simple tcp cli chat program to learn some C.
+fyi: i am a beginner in this stuff so dont expect smth good!!!
 
 ## Features
 
