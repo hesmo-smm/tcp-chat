@@ -8,7 +8,7 @@ fyi: i am a beginner in this stuff so dont expect smth good!!!
 
 ### Implemented
 - [x] Basic TCP connection
-- [ ] Single client messaging
+- [x] Single client messaging
 
 ### In Progress
 - [ ] Multi-client support
@@ -30,6 +30,7 @@ fyi: i am a beginner in this stuff so dont expect smth good!!!
 * [x] server receives and displays the message
 * [x] server can send a response
 * [x] cleanly close connection
+* [x] continues chatting
 * [ ] do the cleanup and make it like a real cli message thingy
 
 ---
